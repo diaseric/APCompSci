@@ -1,0 +1,134 @@
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        String a = "Palindrome";
+        String b = "Civic";
+        String c = "Radar";
+        String d = "Level";
+        String e = "Eva, can I stab bats in a cave?";
+        String f = "A man, a plan, a canal, Panama";
+        String g = "Mr. Owl ate my metal worm";
+        String h = "Never odd or even";
+        String i = "Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod.";
+
+        String test;
+        if (args.length>0) {
+            test = args[0];
+            tester(test);
+            if(tester(test) == true)
+                System.out.println(test + " is a palindrome.");
+            else
+                System.out.println(test + " is NOT a palindrome.");
+        }
+
+
+
+
+        tester(a);
+        if(tester(a) == true)
+            System.out.println(a + " is a palindrome.");
+        else
+            System.out.println(a + " is NOT a palindrome.");
+
+        tester(b);
+        if(tester(b) == true)
+            System.out.println(b + " is a palindrome.");
+        else
+            System.out.println(b + " is NOT a palindrome.");
+
+
+        tester(c);
+        if(tester(c) == true)
+            System.out.println(c + " is a palindrome.");
+        else
+            System.out.println(c + " is NOT a palindrome.");
+
+
+        tester(d);
+        if(tester(d) == true)
+            System.out.println(d + " is a palindrome.");
+        else
+            System.out.println(d + " is NOT a palindrome.");
+
+        tester(e);
+        if(tester(e) == true)
+            System.out.println(e + " is a palindrome.");
+        else
+            System.out.println(e + " is NOT a palindrome.");
+
+        tester(f);
+        if(tester(f) == true)
+            System.out.println(f + " is a palindrome.");
+        else
+            System.out.println(f + " is NOT a palindrome.");
+
+        tester(g);
+        if(tester(g) == true)
+            System.out.println(g + " is a palindrome.");
+        else
+            System.out.println(g + " is NOT a palindrome.");
+
+        tester(h);
+        if(tester(h) == true)
+            System.out.println(h + " is a palindrome.");
+        else
+            System.out.println(h + " is NOT a palindrome.");
+
+        tester(i);
+        if(tester(i) == true)
+            System.out.println(i + " is a palindrome.");
+        else
+            System.out.println(i + " is NOT a palindrome.");
+
+
+
+
+
+    }
+
+    public static boolean tester(String z){
+        int count;
+
+        z = z.replace(" ", "");
+        z = z.replace(",", "");
+        z = z.replace("?", "");
+        z = z.replace(".", "");
+        z = z.replace(":", "");
+
+        count = z.length();
+
+        char[] backwards = new char[count];
+
+        for(int i = 0; i<count; i++){
+            backwards[i] = z.charAt(count - i-1);
+
+        }
+
+        String bckwrds = new String(backwards);
+
+
+
+
+
+        boolean condition = z.equalsIgnoreCase(bckwrds);
+
+
+        return condition;
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+}
