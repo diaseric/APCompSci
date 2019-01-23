@@ -1,0 +1,449 @@
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+
+
+         String data = "236392,1,4,4,4;418945,3,4,4,4;408892,2,4,2,4;248043,1,1,3,2;138645,4,3,4,3;156160,4,4,2,3;121122,3,4,3,1;102572,2,4,1,4;278579,1,3,3,1;311936,2,2,1,2;180091,4,2,4,3;131991,3,4,1,3;349678,3,2,2,1;348822,4,2,1,1;358463,4,2,2,2;142865,1,1,1,2;397632,2,2,4,2;233101,2,3,2,1;336269,3,2,1,1;139745,3,1,1,1;388694,1,4,4,2;435193,1,1,2,1;298522,4,2,2,4;463523,3,2,1,3;340719,1,1,4,3;248911,4,2,4,2;176898,3,3,4,1;176697,2,1,3,4;479451,2,4,1,3;193036,1,3,2,1;130872,4,4,2,1;440023,4,4,3,4;376006,2,2,4,3;370599,1,3,3,4;114011,4,1,3,4;333671,2,1,3,3;116340,4,4,3,3;127895,3,1,1,4;475663,3,3,3,4;308242,1,2,4,4;176660,2,1,1,4;346022,3,2,4,2;313979,4,3,2,1;135913,1,2,4,2;180578,3,2,2,3;485579,4,4,2,3;313900,2,4,2,4;188421,4,2,4,3;475741,3,1,2,3;307455,3,4,3,2;356172,1,2,1,3;176303,1,2,3,3;141175,1,3,4,1;458524,1,3,1,1;359897,3,2,4,4;164080,2,2,2,4;310114,3,4,4,4;372346,3,1,2,2;341926,2,3,3,4;455848,2,1,4,2;298914,1,1,1,3;434548,3,3,3,3;454765,1,4,1,2;111469,3,3,4,2;215916,4,2,1,2;156160,4,3,1,4;409619,4,1,3,1;189440,2,1,4,2;354588,2,4,2,4;240064,2,2,1,1;317390,2,1,2,2;452034,1,1,1,3;305126,4,1,4,3;274294,3,4,4,4;473603,4,1,3,1;369608,4,2,4,3;456720,2,3,4,1;430577,1,3,4,4;420094,4,4,1,3;238780,4,1,2,4;284283,4,3,1,2;494623,1,3,2,2;345578,3,3,4,1;136356,3,3,1,2;391631,1,2,2,1;474920,4,1,2,2;484250,3,1,1,3;238515,2,4,1,3;332342,1,3,2,3;160398,4,4,3,2;251800,2,3,1,3;458410,1,1,3,3;287110,4,1,4,3;276739,2,4,3,3;207147,1,2,3,4;146882,1,1,3,2;137548,1,3,1,2;205973,4,1,1,2;205347,2,2,1,3;407213,4,1,1,3;111757,4,2,4,4;214753,2,1,1,1;423330,3,4,3,3;346175,4,1,4,4;305046,2,2,4,1;213102,1,3,1,1;443390,2,3,3,3;244222,3,3,3,1;245179,1,1,3,4;117506,2,3,2,4;190445,2,1,2,4;176303,3,1,2,1;240771,3,3,1,4;363851,3,4,4,2;206981,1,1,4,1;299605,2,1,3,3;457468,1,2,4,3;352242,1,4,2,1;444307,2,1,3,3;160376,2,2,4,2;485431,4,2,1,2;453972,3,3,4,3;202989,2,1,1,3;438282,3,4,2,4;490054,1,1,2,2;397395,1,1,2,3;240328,4,2,2,2;499270,1,3,4,1;465025,4,2,2,3;417590,1,2,4,4;188976,2,3,1,3;272392,4,4,2,2;423927,4,4,1,4;278516,3,3,1,1;120319,4,2,4,1;445179,2,1,3,3;138408,3,2,1,3;106318,4,1,4,3;138444,1,1,3,1;145097,3,1,1,2;495854,4,4,1,4;274012,1,4,3,3;167018,4,3,2,1;218219,3,2,3,4;329419,1,2,3,2;108514,1,1,4,1;186107,4,4,2,4;369057,1,1,3,1;461062,1,4,3,3;104673,1,1,3,2;463064,3,1,2,2;228802,2,1,2,2;383179,4,4,4,1;498575,4,2,3,2;445273,3,3,2,3;144250,2,2,3,4;298522,3,2,4,2;119306,2,1,4,4;402763,2,4,2,4;156269,4,4,3,2;117512,3,4,1,1;217492,4,1,1,1;228596,1,3,4,4;303953,1,4,2,2;160440,1,3,1,2;444045,3,2,2,4;362734,4,1,2,2;457199,3,2,1,1;390175,1,3,3,3;355108,3,3,4,1;260366,3,3,1,1;217192,2,3,1,3;357978,1,2,1,4;166541,3,3,1,4;109639,2,2,2,4;125169,3,2,3,1;237380,4,3,3,4;317118,3,1,2,3;280006,2,1,2,4;410177,2,3,3,4;398208,1,4,4,3;211730,4,3,2,4;105442,4,1,2,4;266893,2,3,2,4;316151,2,2,1,4;429162,3,4,2,4;414973,3,4,2,3;373728,1,2,2,1;401535,1,2,1,3;354030,2,2,1,4;461310,1,2,2,3;496987,1,3,1,1;481665,3,2,2,1;355186,4,3,4,4;337331,4,1,3,3;123777,2,3,3,1;492661,4,1,2,1;258113,2,2,4,1;319492,1,4,1,1;399666,3,1,4,4;476970,1,1,2,4;490605,4,4,4,2;475034,3,2,1,2;321855,3,2,4,3;498697,4,4,4,1;436437,1,2,3,3;104887,1,1,3,4;407201,2,4,1,2;136806,1,1,1,3;449179,1,2,1,3;447780,2,2,4,1;112827,4,4,1,1;323141,1,1,2,2;234307,1,4,2,3;246026,1,3,1,3;219714,2,4,2,1;368650,3,4,4,1;309322,1,1,2,2;495204,1,3,1,3;141214,4,1,4,3;101951,3,1,1,3;137169,1,4,2,1;250262,2,2,2,4;294619,2,2,4,4;250540,1,3,3,1;360720,4,3,2,3;187681,1,3,2,2;143402,3,3,1,2;252362,2,3,1,1;454494,2,2,1,3;427706,1,3,1,4;359923,4,1,3,4;388976,2,1,4,1;140156,2,4,4,4;459931,2,1,3,4;477808,2,2,2,4;248205,3,3,3,4;355132,1,4,3,1;103042,1,2,3,1;481606,1,2,4,2;345578,1,1,2,3;238947,4,4,1,2;473687,2,4,2,3;159439,3,3,3,1;429067,4,3,3,4;444958,3,4,4,4;474788,2,2,1,3;159366,2,2,2,1;397544,4,4,4,1;407677,1,2,2,3";
+
+         String[] voterData = data.split("[;,]");
+
+
+         int[] ballotData = new int[voterData.length];
+
+         for(int i = 0; i<ballotData.length; i++) {
+
+             ballotData[i] = Integer.parseInt(voterData[i]);
+
+         }
+
+         //finding IDs
+
+        int[] IDs = new int[(ballotData.length)/5];
+
+         int count = -1;
+
+         for(int i = 0; i<ballotData.length; i++){
+
+             if(ballotData[i]>4)
+             {
+                 count++;
+                 IDs[count] = ballotData[i];
+             }
+
+         }
+
+         //sorting votes
+         int[] president = new int[IDs.length];
+
+         //       president
+         count = -1;
+
+         for(int i = 1; i<ballotData.length; i = i + 5 ){
+
+             count++;
+
+             president[count] = ballotData[i];
+         }
+
+         //       vice president
+         int[] vp = new int[IDs.length];
+
+         count = -1;
+
+         for(int i = 2; i<ballotData.length; i = i + 5){
+
+             count++;
+
+             vp[count] = ballotData[i];
+         }
+         //      secretary
+
+        int[] secretary = new int[IDs.length];
+
+         count = -1;
+
+         for(int i = 3; i<ballotData.length; i = i + 5){
+
+             count++;
+
+             secretary[count] = ballotData[i];
+         }
+         //      treasurer
+        int[] treasurer = new int[IDs.length];
+
+         count = -1;
+
+         for(int i = 4; i<ballotData.length; i = i + 5){
+
+             count++;
+
+             treasurer[count] = ballotData[i];
+         }
+
+
+         //counting president votes
+
+        int presidentCount0 = 0;
+
+         int presidentCount1 = 0;
+
+         int presidentCount2 = 0;
+
+         int presidentCount3 = 0;
+
+         int presidentCount4 = 0;
+
+         for(int i = 0; i<president.length; i++){
+             if(president[i] == 0 )
+                 presidentCount0++;
+             if(president[i] == 1)
+                 presidentCount1++;
+             if(president[i] == 2)
+                 presidentCount2++;
+             if(president[i] == 3)
+                 presidentCount3++;
+             if(president[i] == 4)
+                 presidentCount4++;
+
+         }
+
+         int[] presidentCount = new int[]{presidentCount0, presidentCount1, presidentCount2, presidentCount3, presidentCount4};
+
+         int presidentMaxValue = presidentCount[1];
+
+         int presidentMax = 1;
+
+         for(int i = 1; i<presidentCount.length; i++){
+             if(presidentCount[i]>presidentMaxValue) {
+                 presidentMaxValue = presidentCount[i];
+                 presidentMax = i;
+             }
+
+
+
+         }
+
+         String[] presidentWinner = new String[4];
+
+         if(presidentMax == 1)
+             presidentWinner[0] = "Golding, Mordy";
+         if(presidentMax == 2)
+             presidentWinner[1] = "Gotshalk, Shira";
+         if(presidentMax == 3)
+             presidentWinner[2] = "Evans, Stephanie";
+         if(presidentMax == 4)
+             presidentWinner[3] = "Villalobos, Ray";
+
+         String winnerOne = "hello";
+
+         for(int i = 0; i<presidentWinner.length; i++){
+
+             if(presidentWinner[i] != null)
+                 winnerOne = presidentWinner[i];
+
+         }
+
+         //counting VP votes
+
+        int vpCount0 = 0;
+
+        int vpCount1 = 0;
+
+        int vpCount2 = 0;
+
+        int vpCount3 = 0;
+
+        int vpCount4 = 0;
+
+        for(int i = 0; i<vp.length; i++){
+            if(vp[i] == 0 )
+                vpCount0++;
+            if(vp[i] == 1)
+                vpCount1++;
+            if(vp[i] == 2)
+                vpCount2++;
+            if(vp[i] == 3)
+                vpCount3++;
+            if(vp[i] == 4)
+                vpCount4++;
+
+        }
+
+        int[] vpCount = new int[]{vpCount0, vpCount1, vpCount2, vpCount3, vpCount4};
+
+        int vpMaxValue = vpCount[1];
+        int vpMax = 1;
+
+        for(int i = 1; i<vpCount.length; i++){
+            if(vpCount[i]>vpMaxValue) {
+                vpMaxValue = vpCount[i];
+                vpMax = i;
+            }
+
+        }
+
+        String[] vpWinner = new String[4];
+
+        if(vpMax == 1)
+            vpWinner[0] = "Sarkar, Dona";
+        if(vpMax == 2)
+            vpWinner[1] = "Ahn, Tyler";
+        if(vpMax == 3)
+            vpWinner[2] = "Camp, Joe";
+        if(vpMax == 4)
+            vpWinner[3] = "LeBlanc, Brandon";
+
+        String winnerTwo = "hello";
+
+        for(int i = 0; i<vpWinner.length; i++){
+
+            if(vpWinner[i] != null)
+                winnerTwo = vpWinner[i];
+
+        }
+
+        //counting secretary votes
+
+        int secretaryCount0 = 0;
+
+        int secretaryCount1 = 0;
+
+        int secretaryCount2 = 0;
+
+        int secretaryCount3 = 0;
+
+        int secretaryCount4 = 0;
+
+        for(int i = 0; i<secretary.length; i++){
+            if(secretary[i] == 0 )
+                secretaryCount0++;
+            if(secretary[i] == 1)
+                secretaryCount1++;
+            if(secretary[i] == 2)
+                secretaryCount2++;
+            if(secretary[i] == 3)
+                secretaryCount3++;
+            if(secretary[i] == 4)
+                secretaryCount4++;
+
+        }
+
+        int[] secretaryCount = new int[]{secretaryCount0, secretaryCount1, secretaryCount2, secretaryCount3, secretaryCount4};
+
+        int secretaryMaxValue = secretaryCount[1];
+        int secretaryMax = 1;
+
+        for(int i = 1; i<secretaryCount.length; i++){
+            if(secretaryCount[i]>secretaryMaxValue) {
+                secretaryMaxValue = secretaryCount[i];
+                secretaryMax = i;
+            }
+
+        }
+
+        String[] secretaryWinner = new String[4];
+
+        if(secretaryMax == 1)
+            secretaryWinner[0] = "Howard, Jason";
+        if(secretaryMax == 2)
+            secretaryWinner[1] = "Rubino, Nikki";
+        if(secretaryMax == 3)
+            secretaryWinner[2] = "Fisher, Peggy";
+        if(secretaryMax == 4)
+            secretaryWinner[3] = "Edde, Neil";
+
+        String winnerThree = "hello";
+
+        for(int i = 0; i<secretaryWinner.length; i++){
+
+            if(secretaryWinner[i] != null)
+                winnerThree = secretaryWinner[i];
+
+        }
+
+        //counting treasurer votes
+
+        int treasurerCount0 = 0;
+
+        int treasurerCount1 = 0;
+
+        int treasurerCount2 = 0;
+
+        int treasurerCount3 = 0;
+
+        int treasurerCount4 = 0;
+
+        for(int i = 0; i<treasurer.length; i++){
+            if(treasurer[i] == 0 )
+                treasurerCount0++;
+            if(treasurer[i] == 1)
+                treasurerCount1++;
+            if(treasurer[i] == 2)
+                treasurerCount2++;
+            if(treasurer[i] == 3)
+                treasurerCount3++;
+            if(treasurer[i] == 4)
+                treasurerCount4++;
+
+        }
+
+        int[] treasurerCount = new int[]{treasurerCount0, treasurerCount1, treasurerCount2, treasurerCount3, treasurerCount4};
+
+        int treasurerMaxValue = treasurerCount[1];
+        int treasurerMax = 1;
+
+        for(int i = 1; i<treasurerCount.length; i++){
+            if(treasurerCount[i]>treasurerMaxValue) {
+                treasurerMaxValue = treasurerCount[i];
+                treasurerMax = i;
+            }
+
+        }
+
+        String[] treasurerWinner = new String[4];
+
+        if(treasurerMax == 1)
+            treasurerWinner[0] = "Gassner, David";
+        if(treasurerMax == 2)
+            treasurerWinner[1] = "Bennett, Sharon";
+        if(treasurerMax == 3)
+            treasurerWinner[2] = "Ritscher, Walt";
+        if(treasurerMax == 4)
+            treasurerWinner[3] = "Hurley, Heather";
+
+        String winnerFour = "hello";
+
+        for(int i = 0; i<treasurerWinner.length; i++){
+
+            if(treasurerWinner[i] != null)
+                winnerFour = treasurerWinner[i];
+
+        }
+
+        //Printing
+
+        System.out.println("Presidential Election Results");
+
+        System.out.println("Abstain/Error: " + presidentCount0);
+
+        System.out.println("Golding, Mordy: " + presidentCount1);
+
+        System.out.println("Gotshalk, Shira: " + presidentCount2);
+
+        System.out.println("Evans, Stephanie: " + presidentCount3);
+
+        System.out.println("Villalobos, Ray: " + presidentCount4);
+
+        System.out.println("Presidential Winner: " + winnerOne);
+
+        System.out.println();
+
+
+
+        System.out.println("Vice Presidential Election Results");
+
+        System.out.println("Abstain/Error: " + vpCount0);
+
+        System.out.println("Sarkar, Dona: " + vpCount1);
+
+        System.out.println("Ahn, Tyler: " + vpCount2);
+
+        System.out.println("Camp, Joe: " + vpCount3);
+
+        System.out.println("LeBlanc, Brandon: " + vpCount4);
+
+        System.out.println("Vice Presidential Winner: " + winnerTwo);
+
+        System.out.println();
+
+
+
+        System.out.println("Secretary Election Results");
+
+        System.out.println("Abstain/Error: " + secretaryCount0);
+
+        System.out.println("Howard, Jason: " + secretaryCount1);
+
+        System.out.println("Rubino, Nikki: " + secretaryCount2);
+
+        System.out.println("Fisher, Peggy: " + secretaryCount3);
+
+        System.out.println("Edde, Neil: " + secretaryCount4);
+
+        System.out.println("Secretary Winner: " + winnerThree);
+
+        System.out.println();
+
+
+
+        System.out.println("Treasurer Election Results");
+
+        System.out.println("Abstain/Error: " + treasurerCount0);
+
+        System.out.println("Gassner, David: " + treasurerCount1);
+
+        System.out.println("Bennett, Sharon: " + treasurerCount2);
+
+        System.out.println("Ritscher, Walt: " + treasurerCount3);
+
+        System.out.println("Hurley, Heather: " + treasurerCount4);
+
+        System.out.println("Secretary Winner: " + winnerFour);
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
